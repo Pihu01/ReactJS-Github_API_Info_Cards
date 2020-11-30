@@ -1,0 +1,75 @@
+form {
+  width: 600px;
+  height: 30;
+  margin-top: 20%;
+  margin-top: 2%;
+  border: 1px solid rgb(221, 221, 221);
+  padding: 50px;
+  background-color: rgb(240, 240, 247);
+  font-size: 40px;
+  margin-left: 25%;
+  margin-right: 20%;
+  margin-bottom: 20px;
+}
+input {
+  width: 400px;
+  height: 45px;
+  color: rgb(6, 105, 84);
+  font-size: 20px;
+  border-style: none;
+  background-color: rgb(240, 240, 247);
+  border-bottom: 1px solid gray;
+}
+button {
+  margin-left: 10px;
+  border: none;
+  width: 120px;
+  height: 50px;
+  color: white;
+  background-color: rgba(40, 40, 153, 0.89);
+  font-size: 20px;
+}
+button:hover {
+  width: 120px;
+  height: 50px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(16, 133, 113);
+  border: none;
+}
+.container {
+  box-shadow: 3px 3px 5px #ccc;
+  border-radius: 10px;
+  color: rgb(76, 93, 100);
+  margin-left: 40%;
+  margin-right: 40%;
+  width: 400px;
+  height: 150px;
+  border: 1px solid rgb(255, 255, 255);
+  margin-bottom: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+img {
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin-right: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+}
+.name {
+  margin-top: 20px;
+  font-size: 20px;
+  color: rgb(29, 112, 180);
+  margin-bottom: 5px;
+}
+.title {
+  margin-top: 60px;
+  font-size: 40px;
+  font-weight: 600;
+  color: rgb(84, 84, 180);
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
